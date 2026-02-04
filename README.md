@@ -75,7 +75,7 @@ Currently transitioning into <b>Data Science & Machine Learning</b>, with a stro
 <h3 align="left">📫 Connect With Me</h3>
 
 <div align="center">
-  <a href="mailto:mayurpg9@gmail.com">
+  <a href="mailto:mayurgaikwad.da@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35" />
   </a>
   <a href="https://www.linkedin.com/in/mayurpgaikwad07/" target="_blank">
