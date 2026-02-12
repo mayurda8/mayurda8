@@ -1,87 +1,99 @@
+<!-- Matrix Background Animation -->
+[![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)]()
+
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&size=24&color=58A6FF&center=true&vCenter=true&width=900&lines=Mayur+Gaikwad;Data+Analytics+%7C+SQL+%7C+Business+Intelligence;Turning+Operational+Data+Into+Decision+Systems">
+<img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=58a6ff&size=22&center=true&lines=Mayur+Gaikwad;Data+Analytics+Professional;SQL+|+Power+BI+|+Python;Operational+Analytics+%26+KPI+Design;Turning+Data+Into+Decisions">
 </p>
 
----
-
-<h3 align="center">Data Analyst specializing in operational analytics, KPI systems, and scalable reporting</h3>
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%"/>
 
 ---
 
-## 👋 Overview
-
-I work in analytics where engineering systems, operational workflows, and business strategy intersect.
-
-My approach focuses on transforming complex datasets into structured decision frameworks rather than producing one-off reports. I specialize in building analytics environments that improve visibility, reduce ambiguity, and support measurable performance improvement.
-
-Core strengths include translating operational data into actionable insights, defining meaningful performance metrics, and designing reporting solutions that scale with organizational needs.
+<h3 align="center">📊 Data & Analytics Analyst | Operational Intelligence & Decision Support</h3>
 
 ---
 
-## 🧠 Expertise
+## 👨‍💻 About Me
 
-### Data Analytics & Insight Development
+I work with data to improve operational clarity and business decision-making.
 
-- Advanced SQL analysis and data transformation
-- Exploratory data analysis (EDA) for pattern discovery
-- Root cause investigation and anomaly analysis
-- KPI design and metric governance
-- Data quality validation and consistency controls
+My background combines engineering domain knowledge with analytical problem solving, enabling me to design metrics, dashboards, and data workflows that help teams understand performance drivers and act with confidence.
 
-### Business Intelligence & Reporting
+Rather than producing static reports, I focus on building scalable analytical systems that support continuous insight generation.
 
-- Power BI dashboard architecture
-- Executive-focused insight communication
-- Performance monitoring frameworks
-- Automated reporting pipelines
+---
 
-### Technical Stack
+## 🧠 Core Expertise
 
-- SQL (analysis and transformation workflows)
-- Python (Pandas for analytical processing)
-- Excel (Power Query, advanced formulas, VBA automation)
+### 📌 Data Analytics
+
+- Advanced SQL querying & transformation
+- Exploratory Data Analysis (EDA)
+- Root cause investigation
+- KPI architecture and metric governance
+- Data quality validation & integrity monitoring
+
+### 📊 Business Intelligence
+
+- Power BI dashboard development
+- Performance tracking frameworks
+- Executive reporting and insight storytelling
+- Automated reporting workflows
+
+### ⚙️ Tools & Technologies
+
+- Python (Pandas)
+- Excel (Power Query, VBA automation)
 - MySQL
-- Snowflake (working exposure)
+- Snowflake (Exposure)
+- Cloud fundamentals (AWS / Azure / GCP exposure)
 
 ---
 
-## ⚙️ Analytical Philosophy
+## 💼 Professional Experience
 
-I view analytics as a decision-enabling discipline rather than a reporting task.
+### Data Analyst — Sonic Automation
+- Led end-to-end MIS reporting ownership
+- Designed KPI dashboards improving performance visibility
+- Implemented validation frameworks reducing discrepancies by 18%
 
-Guiding principles:
+### Junior Data Analyst — Sonic Automation
+- Automated recurring reporting pipelines using SQL + Excel VBA
+- Reduced manual reporting workload by ~12%
 
-- Metrics should influence behavior and outcomes.
-- Automation increases analytical reliability.
-- Simplicity improves adoption.
-- Strong data foundations reduce downstream complexity.
+### Graduate Engineer Trainee — Sonic Automation
+- Structured engineering datasets for analytics use
+- Supported system efficiency analysis and downtime assessment
 
 ---
 
-## 🤝 Ways of Working
+## 🧰 Tech Stack
 
-- Cross-functional collaboration with operations and engineering teams
-- Stakeholder requirement discovery and problem framing
-- Structured documentation and knowledge continuity
-- Continuous improvement through data-driven feedback loops
+![SQL](https://img.shields.io/badge/SQL-Advanced-blue?style=for-the-badge&logo=mysql&logoColor=white)
+![PowerBI](https://img.shields.io/badge/PowerBI-Dashboarding-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Python](https://img.shields.io/badge/Python-Data%20Analysis-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Excel](https://img.shields.io/badge/Excel-Automation-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-Exposure-56B9EB?style=for-the-badge&logo=snowflake&logoColor=white)
+![EDA](https://img.shields.io/badge/EDA-Analysis-important?style=for-the-badge)
+![KPI](https://img.shields.io/badge/KPI-Design-orange?style=for-the-badge)
 
 ---
 
 ## 🎓 Education
 
-Post Graduate Program in Data Science & AI — IIIT Bangalore
+Post Graduate Program in Data Science & AI — IIIT Bangalore  
 
 Bachelor of Engineering (Mechanical)
 
 ---
 
-## 📫 Contact
+## 📫 Connect
 
 📧 mayurgaikwad.da@gmail.com
 
 ---
 
-## 📊 GitHub Activity
+## 📈 GitHub Stats
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=github_dark"/>
