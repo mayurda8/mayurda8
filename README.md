@@ -1,24 +1,27 @@
-<!-- HEADER BANNER -->
+<!-- Animated Data Visualization Banner -->
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Mayur%20Gaikwad&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Analytics%20%7C%20SQL%20%7C%20Power%20BI%20%7C%20Python&descAlignY=60"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Mayur%20Prakash%20Gaikwad&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Analytics%20%7C%20SQL%20%7C%20Power%20BI%20%7C%20Python&descAlignY=60"/>
 </p>
 
-<!-- TYPING INTRO -->
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=58a6ff&size=22&center=true&lines=Data+Analytics+Professional;Operational+Analytics+%26+KPI+Design;Turning+Data+Into+Decision+Systems;SQL+%7C+Business+Intelligence+%7C+Insight+Delivery">
+<img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=58a6ff&size=22&center=true&lines=Mayur+Gaikwad;Data+Analytics+Professional;SQL+|+Power+BI+|+Python;Operational+Analytics+%26+KPI+Design;Turning+Data+Into+Decisions">
 </p>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%"/>
 
 ---
 
-<h3 align="center">📊 Data Analyst specializing in operational analytics, KPI architecture, and scalable reporting</h3>
+<h3 align="center">📊 Data & Analytics Analyst | Operational Intelligence & Decision Support</h3>
 
 ---
 
-## 👋 Overview
+## 👨‍💻 About Me
 
-I work at the intersection of data, engineering workflows, and business decision-making.
+I work with data to improve operational clarity and business decision-making.
 
-My focus is on transforming operational data into structured insight systems that improve performance visibility and support strategic decisions. I emphasize clarity, automation, and analytical frameworks that scale beyond one-time reporting.
+My background combines engineering domain knowledge with analytical problem solving, enabling me to design metrics, dashboards, and data workflows that help teams understand performance drivers and act with confidence.
+
+Rather than producing static reports, I focus on building scalable analytical systems that support continuous insight generation.
 
 ---
 
@@ -28,18 +31,18 @@ My focus is on transforming operational data into structured insight systems tha
 
 - Advanced SQL querying & transformation
 - Exploratory Data Analysis (EDA)
-- Root cause investigation & anomaly detection
-- KPI design and metric governance
-- Data validation and integrity monitoring
+- Root cause investigation
+- KPI architecture and metric governance
+- Data quality validation & integrity monitoring
 
 ### 📊 Business Intelligence
 
-- Power BI dashboard architecture
-- Performance monitoring systems
-- Executive reporting & insight storytelling
+- Power BI dashboard development
+- Performance tracking frameworks
+- Executive reporting and insight storytelling
 - Automated reporting workflows
 
-### ⚙️ Technical Stack
+### ⚙️ Tools & Technologies
 
 - Python (Pandas)
 - Excel (Power Query, VBA automation)
@@ -49,36 +52,20 @@ My focus is on transforming operational data into structured insight systems tha
 
 ---
 
-## ⚙️ Analytical Philosophy
-
-I approach analytics as a decision-support discipline rather than static reporting.
-
-Core principles guiding my work:
-
-- Metrics must drive action.
-- Automation reduces analytical friction.
-- Clear data models improve long-term scalability.
-- Simplicity increases stakeholder adoption.
-
----
-
-## 💼 Experience Snapshot
+## 💼 Professional Experience
 
 ### Data Analyst — Sonic Automation
-
-- Owned end-to-end MIS reporting and KPI tracking
-- Designed dashboards improving operational visibility
-- Implemented validation processes reducing discrepancies by 18%
+- Led end-to-end MIS reporting ownership
+- Designed KPI dashboards improving performance visibility
+- Implemented validation frameworks reducing discrepancies by 18%
 
 ### Junior Data Analyst — Sonic Automation
-
-- Automated recurring reporting workflows using SQL and Excel VBA
-- Reduced manual reporting effort by ~12%
+- Automated recurring reporting pipelines using SQL + Excel VBA
+- Reduced manual reporting workload by ~12%
 
 ### Graduate Engineer Trainee — Sonic Automation
-
-- Structured engineering datasets for analytical use
-- Supported performance and downtime analysis
+- Structured engineering datasets for analytics use
+- Supported system efficiency analysis and downtime assessment
 
 ---
 
@@ -102,9 +89,8 @@ Bachelor of Engineering (Mechanical)
 
 ---
 
-## 📫 Contact
+## 📫 Connect
 
 📧 mayurgaikwad.da@gmail.com
 
----
 ---
