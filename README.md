@@ -1,6 +1,6 @@
 <!-- Animated Data Visualization Banner -->
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Mayur%20Gaikwad&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Analytics%20%7C%20SQL%20%7C%20Power%20BI%20%7C%20Python&descAlignY=60"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Mayur%20Prakash%20Gaikwad&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Analytics%20%7C%20SQL%20%7C%20Power%20BI%20%7C%20Python&descAlignY=60"/>
 </p>
 
 <p align="center">
