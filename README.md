@@ -95,10 +95,3 @@ Bachelor of Engineering (Mechanical)
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=github_dark"/>
-</p>
-
----
