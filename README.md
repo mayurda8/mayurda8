@@ -1,90 +1,93 @@
-
-<h2 align="left">Hi 👋, I'm Mayur Prakash Gaikwad</h2>
-
-<p align="left">
-Data Analyst with 3+ years of experience in SQL-driven analysis, business intelligence, and operational analytics.<br>
-Currently transitioning into <b>Data Science & Machine Learning</b>, with a strong focus on decision-oriented analytics and real-world problem solving 🚀
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&size=24&color=58A6FF&center=true&vCenter=true&width=800&lines=Mayur+Gaikwad;Data+Analytics+Professional;SQL+%7C+Business+Intelligence+%7C+Data+Strategy">
 </p>
 
-<img align="right" height="160" src="https://imarticus.org/blog/wp-content/uploads/2019/05/daonline.gif" />
+---
+
+<h3 align="center">Data Analyst focused on operational analytics, KPI design, and decision-driven reporting</h3>
 
 ---
 
-<h3 align="left">👨‍💻 About Me</h3>
+## 👋 About
 
-<ul>
-  <li>📊 Data Analyst with hands-on experience in <b>SQL, Power BI, Python, and Excel automation</b></li>
-  <li>🏭 Worked on operational & industrial datasets (performance monitoring, downtime analysis, predictive insights)</li>
-  <li>🎓 MSc Data Science & AI (in progress)</li>
-  <li>🔍 Interested in <b>Predictive Analytics, Machine Learning, and Decision-Focused Dashboards</b></li>
-  <li>🚀 Strong believer that <i>data creates value only when it drives decisions</i></li>
-</ul>
+I work at the intersection of data, operations, and business decision-making.
 
----
+My background combines engineering systems knowledge with data analytics practice, allowing me to translate raw operational data into structured insights that support performance optimization and risk awareness.
 
-<h3 align="left">🛠️ Tech Stack & Tools</h3>
+I focus on:
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="30" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="30" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="30" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="30" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="30" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="30" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="30" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="30" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="30" />
-</div>
+- Designing meaningful metrics instead of vanity dashboards
+- Building scalable reporting workflows
+- Simplifying complex datasets into clear narratives
+- Enabling teams to make faster and better decisions using data
 
 ---
 
-<h3 align="left">📌 Featured Projects</h3>
+## 🧠 Core Expertise
 
-<ul>
-  <li>
-    <b>Risk-Based Maintenance Prioritization</b><br>
-    Decision-focused predictive maintenance system using engine degradation data, explainable ML, and risk-weighted scoring.
-  </li>
-  <li>
-    <b>Operational Performance Dashboards</b><br>
-    Power BI dashboards for KPI tracking, system health monitoring, and management reporting.
-  </li>
-  <li>
-    <b>Predictive Analytics for Equipment Health</b><br>
-    Feature engineering, failure risk modeling, and degradation analysis on time-series sensor data.
-  </li>
-</ul>
+### Data Analytics
+
+- Advanced SQL analysis
+- Exploratory Data Analysis (EDA)
+- Root cause investigation
+- KPI architecture & metric governance
+- Data validation and consistency
+
+### Business Intelligence
+
+- Power BI dashboard design
+- Insight storytelling for stakeholders
+- Executive reporting frameworks
+- Performance monitoring systems
+
+### Programming & Data Tools
+
+- Python (Pandas for analysis workflows)
+- Excel (Power Query, advanced formulas, VBA automation)
+- MySQL
+- Snowflake exposure
+
+### Working Style
+
+- Agile collaboration
+- Stakeholder requirement discovery
+- Data-driven process improvement
+- Documentation-first mindset
 
 ---
 
-<h3 align="left">📫 Connect With Me</h3>
+## 💼 Professional Approach
 
-<div align="center">
-  <a href="mailto:mayurgaikwad.da@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35" />
-  </a>
-  <a href="https://www.linkedin.com/in/mayurpgaikwad07/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35" />
-  </a>
-</div>
+I treat analytics as a decision-support function rather than reporting output.
+
+Key principles guiding my work:
+
+- Metrics must drive action.
+- Automation reduces analytical friction.
+- Clarity is more valuable than complexity.
+- Data models should scale with business growth.
 
 ---
+
+## 🎓 Education
+
+Post Graduate Program in Data Science & AI — IIIT Bangalore
+
+Bachelor of Engineering (Mechanical)
+
+---
+
+## 📫 Contact
+
+📧 mayurgaikwad.da@gmail.com
+
+---
+
+## 📈 GitHub Activity
 
 <p align="center">
-<i>Open to Data Analyst / Data Scientist roles | Focused on building analytics that drive real business decisions</i>
+<img src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=github_dark"/>
 </p>
+
+---
 
