@@ -1,71 +1,69 @@
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&size=24&color=58A6FF&center=true&vCenter=true&width=800&lines=Mayur+Gaikwad;Data+Analytics+Professional;SQL+%7C+Business+Intelligence+%7C+Data+Strategy">
+<img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&size=24&color=58A6FF&center=true&vCenter=true&width=900&lines=Mayur+Gaikwad;Data+Analytics+%7C+SQL+%7C+Business+Intelligence;Turning+Operational+Data+Into+Decision+Systems">
 </p>
 
 ---
 
-<h3 align="center">Data Analyst focused on operational analytics, KPI design, and decision-driven reporting</h3>
+<h3 align="center">Data Analyst specializing in operational analytics, KPI systems, and scalable reporting</h3>
 
 ---
 
-## 👋 About
+## 👋 Overview
 
-I work at the intersection of data, operations, and business decision-making.
+I work in analytics where engineering systems, operational workflows, and business strategy intersect.
 
-My background combines engineering systems knowledge with data analytics practice, allowing me to translate raw operational data into structured insights that support performance optimization and risk awareness.
+My approach focuses on transforming complex datasets into structured decision frameworks rather than producing one-off reports. I specialize in building analytics environments that improve visibility, reduce ambiguity, and support measurable performance improvement.
 
-I focus on:
-
-- Designing meaningful metrics instead of vanity dashboards
-- Building scalable reporting workflows
-- Simplifying complex datasets into clear narratives
-- Enabling teams to make faster and better decisions using data
+Core strengths include translating operational data into actionable insights, defining meaningful performance metrics, and designing reporting solutions that scale with organizational needs.
 
 ---
 
-## 🧠 Core Expertise
+## 🧠 Expertise
 
-### Data Analytics
+### Data Analytics & Insight Development
 
-- Advanced SQL analysis
-- Exploratory Data Analysis (EDA)
-- Root cause investigation
-- KPI architecture & metric governance
-- Data validation and consistency
+- Advanced SQL analysis and data transformation
+- Exploratory data analysis (EDA) for pattern discovery
+- Root cause investigation and anomaly analysis
+- KPI design and metric governance
+- Data quality validation and consistency controls
 
-### Business Intelligence
+### Business Intelligence & Reporting
 
-- Power BI dashboard design
-- Insight storytelling for stakeholders
-- Executive reporting frameworks
-- Performance monitoring systems
+- Power BI dashboard architecture
+- Executive-focused insight communication
+- Performance monitoring frameworks
+- Automated reporting pipelines
 
-### Programming & Data Tools
+### Technical Stack
 
-- Python (Pandas for analysis workflows)
+- SQL (analysis and transformation workflows)
+- Python (Pandas for analytical processing)
 - Excel (Power Query, advanced formulas, VBA automation)
 - MySQL
-- Snowflake exposure
-
-### Working Style
-
-- Agile collaboration
-- Stakeholder requirement discovery
-- Data-driven process improvement
-- Documentation-first mindset
+- Snowflake (working exposure)
 
 ---
 
-## 💼 Professional Approach
+## ⚙️ Analytical Philosophy
 
-I treat analytics as a decision-support function rather than reporting output.
+I view analytics as a decision-enabling discipline rather than a reporting task.
 
-Key principles guiding my work:
+Guiding principles:
 
-- Metrics must drive action.
-- Automation reduces analytical friction.
-- Clarity is more valuable than complexity.
-- Data models should scale with business growth.
+- Metrics should influence behavior and outcomes.
+- Automation increases analytical reliability.
+- Simplicity improves adoption.
+- Strong data foundations reduce downstream complexity.
+
+---
+
+## 🤝 Ways of Working
+
+- Cross-functional collaboration with operations and engineering teams
+- Stakeholder requirement discovery and problem framing
+- Structured documentation and knowledge continuity
+- Continuous improvement through data-driven feedback loops
 
 ---
 
@@ -83,11 +81,10 @@ Bachelor of Engineering (Mechanical)
 
 ---
 
-## 📈 GitHub Activity
+## 📊 GitHub Activity
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=github_dark"/>
 </p>
 
 ---
-
